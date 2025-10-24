@@ -72,6 +72,7 @@ Here's a comprehensive **GitHub Command Cheat Sheet** 🐙💻 — focused on Gi
 | `git checkout -- filename`   | Discard changes in file       |
 | `git revert commit_id`       | Undo a commit (safe)          |
 | `git reset --hard commit_id` | Reset to commit (destructive) |
+| `git reset --soft HEAD~1`    | Reset to commit (safe)        |
 
 ---
 
